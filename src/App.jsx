@@ -6,6 +6,10 @@ function App() {
 
   return (
     <>
+      <header className='page-header'>
+      <h1 className='page-title'>Todo App</h1>
+      </header>
+      <main className='page-main'>this is a todo app!</main>
     </>
   )
 }

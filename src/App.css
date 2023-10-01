@@ -1,0 +1,7 @@
+.page-header {
+  height: 5rem;
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+  padding-left: 4rem;
+}
